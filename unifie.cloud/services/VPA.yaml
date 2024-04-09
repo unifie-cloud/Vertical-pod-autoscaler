@@ -1,0 +1,9 @@
+name: VPA
+rules: []
+UIshowRequestsConfig: false
+enabledByDefault: true
+ServiceSrcType: Yes-HelmChart
+helmChartName: vertical-pod-autoscaler
+helmRepositoryName: cowboysysop
+helmRepositoryChartName: vertical-pod-autoscaler
+helmRepositoryURL: https://cowboysysop.github.io/charts/
